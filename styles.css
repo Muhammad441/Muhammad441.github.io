@@ -7,6 +7,9 @@
   --line: #d7dee5;
 }
 
+a {
+  color: inherit;
+}
 * {
   box-sizing: border-box;
 }
