@@ -1,0 +1,6 @@
+@article{saleem2025contact,
+  title={A Contact-Driven Framework for Manipulating in the Blind},
+  author={Saleem, Muhammad Suhail and Yuan, Lai and Likhachev, Maxim},
+  journal={arXiv preprint arXiv:2510.20177},
+  year={2025}
+}

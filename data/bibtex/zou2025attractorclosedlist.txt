@@ -1,0 +1,7 @@
+@inproceedings{zou2025attractor,
+  title={Attractor-based Closed List Search: Sparsifying the Closed List for Efficient Memory-Constrained Planning},
+  author={Zou, Alvin and Saleem, Muhammad Suhail and Likhachev, Maxim},
+  booktitle={Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence},
+  pages={9031--9038},
+  year={2025}
+}

@@ -1,0 +1,8 @@
+@inproceedings{saleem2025lazy,
+  title={Lazy Heuristic Search for Solving POMDPs with Expensive-to-Compute Belief Transitions},
+  author={Saleem, Muhammad Suhail and Veerapaneni, Rishi and Likhachev, Maxim},
+  booktitle={Proceedings of the International Symposium on Combinatorial Search},
+  volume={18},
+  pages={118--126},
+  year={2025}
+}

@@ -1,0 +1,8 @@
+@inproceedings{veerapaneni2024data,
+  title={A data efficient framework for learning local heuristics},
+  author={Veerapaneni, Rishi and Park, Jonathan and Saleem, Muhammad Suhail and Likhachev, Maxim},
+  booktitle={Proceedings of the International Symposium on Combinatorial Search},
+  volume={17},
+  pages={223--227},
+  year={2024}
+}

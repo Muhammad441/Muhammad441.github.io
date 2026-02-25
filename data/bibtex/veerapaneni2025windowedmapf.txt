@@ -1,0 +1,9 @@
+@inproceedings{veerapaneni2025windowed,
+  title={Windowed MAPF with completeness guarantees},
+  author={Veerapaneni, Rishi and Saleem, Muhammad Suhail and Li, Jiaoyang and Likhachev, Maxim},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={22},
+  pages={23323--23332},
+  year={2025}
+}

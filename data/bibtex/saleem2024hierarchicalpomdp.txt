@@ -1,0 +1,6 @@
+@article{saleem2024pomdp,
+  title={A POMDP-based hierarchical planning framework for manipulation under pose uncertainty},
+  author={Saleem, Muhammad Suhail and Veerapaneni, Rishi and Likhachev, Maxim},
+  journal={arXiv preprint arXiv:2409.18775},
+  year={2024}
+}

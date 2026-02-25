@@ -1,0 +1,10 @@
+@article{saleem2023preprocessing,
+  title={Preprocessing-based planning for utilizing contacts in semi-structured high-precision insertion tasks},
+  author={Saleem, Muhammad Suhail and Veerapaneni, Rishi and Likhachev, Maxim},
+  journal={IEEE Robotics and Automation Letters},
+  volume={8},
+  number={11},
+  pages={6947--6954},
+  year={2023},
+  publisher={IEEE}
+}

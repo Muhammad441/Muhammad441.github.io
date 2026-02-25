@@ -1,0 +1,8 @@
+@inproceedings{saleem2021search,
+  title={Search-based path planning for a high dimensional manipulator in cluttered environments using optimization-based primitives},
+  author={Saleem, Muhammad Suhail and Sood, Raghav and Onodera, Sho and Arora, Rohit and Kanazawa, Hiroyuki and Likhachev, Maxim},
+  booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={8301--8308},
+  year={2021},
+  organization={IEEE}
+}

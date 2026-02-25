@@ -1,0 +1,8 @@
+@inproceedings{natarajan2024preprocessing,
+  title={Preprocessing-based kinodynamic motion planning framework for intercepting projectiles using a robot manipulator},
+  author={Natarajan, Ramkumar and Yang, Hanlan and Xie, Qintong and Oza, Yash and Das, Manash Pratim and Islam, Fahad and Saleem, Muhammad Suhail and Choset, Howie and Likhachev, Maxim},
+  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={10910--10916},
+  year={2024},
+  organization={IEEE}
+}

@@ -1,0 +1,8 @@
+@inproceedings{saleem2020planning,
+  title={Planning with selective physics-based simulation for manipulation among movable objects},
+  author={Saleem, Muhammad Suhail and Likhachev, Maxim},
+  booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={6752--6758},
+  year={2020},
+  organization={IEEE}
+}

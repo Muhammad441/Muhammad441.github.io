@@ -1,0 +1,8 @@
+@inproceedings{saxena2021manipulation,
+  title={Manipulation planning among movable obstacles using physics-based adaptive motion primitives},
+  author={Saxena, Dhruv Mauria and Saleem, Muhammad Suhail and Likhachev, Maxim},
+  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={6570--6576},
+  year={2021},
+  organization={IEEE}
+}

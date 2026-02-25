@@ -1,0 +1,8 @@
+@inproceedings{veerapaneni2023learning,
+  title={Learning local heuristics for search-based navigation planning},
+  author={Veerapaneni, Rishi and Saleem, Muhammad Suhail and Likhachev, Maxim},
+  booktitle={Proceedings of the International Conference on Automated Planning and Scheduling},
+  volume={33},
+  pages={634--638},
+  year={2023}
+}
